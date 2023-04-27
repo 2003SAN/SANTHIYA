@@ -19,5 +19,6 @@ story public link 6 :https://us-west-2b.online.tableau.com/#/site/srmqcgi3/views
 
 story public link 7 :https://us-west-2b.online.tableau.com/#/site/srmqcgi3/views/accidentsbasedonregions/Sheet7?:iid=2
 
-video demonstration link =
+video demonstration link 1 =https://drive.google.com/file/d/1ETNaDiDjpYXuuwTP7iLqqzD9Mb3OPsdN/view?usp=drivesdk
 
+video demonstration link 2 =https://drive.google.com/file/d/1EQv2U_E4-kFTrF90ZyaDnPyAix2MmgWh/view?usp=drivesdk
