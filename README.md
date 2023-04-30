@@ -1,23 +1,23 @@
 # SANTHIYA
 TRAGEDY OF FLIGHT
 
-dashboard public link 1: https://us-west-2b.online.tableau.com/#/site/srmqcgi3/views/Dashboard1/Dashboard1?:iid=1
+dashboard public link 1: https://public.tableau.com/app/profile/santhiya.m4552/viz/dashboard1_16828239662650/Story1?publish=yes
 
-dashboard public link 2: https://us-west-2b.online.tableau.com/#/site/srmqcgi3/views/Dashboard2/Dashboard2?:iid=1
+dashboard public link 2: https://public.tableau.com/app/profile/santhiya.m4552/viz/dashboard2_16828240849180/Story1?publish=yes
 
-story public link 1 :https://us-west-2b.online.tableau.com/#/site/srmqcgi3/views/story1/Story1?:iid=2
+story public link 1 :https://public.tableau.com/app/profile/santhiya.m4552/viz/story1_16827751000880/Story1?publish=yes
 
-story public link 2 :https://us-west-2b.online.tableau.com/#/site/srmqcgi3/views/story2/Story2?:iid=1
+story public link 2 :https://public.tableau.com/app/profile/santhiya.m4552/viz/story2_16828232509410/Story1?publish=yes
 
-story public link 3 :https://us-west-2b.online.tableau.com/#/site/srmqcgi3/views/story3/Story3?:iid=2
+story public link 3 :https://public.tableau.com/app/profile/santhiya.m4552/viz/story3_16828233811950/Story1?publish=yes
 
-story public link 4 :https://us-west-2b.online.tableau.com/#/site/srmqcgi3/views/story4/Story4?:iid=1
+story public link 4 :https://public.tableau.com/app/profile/santhiya.m4552/viz/story4_16828234722450/Story1?publish=yes
 
-story public link 5 :https://us-west-2b.online.tableau.com/#/site/srmqcgi3/views/story5/Story5?:iid=3
+story public link 5 :https://public.tableau.com/app/profile/santhiya.m4552/viz/story5_16828235796670/Story1?publish=yes
 
-story public link 6 :https://us-west-2b.online.tableau.com/#/site/srmqcgi3/views/story6/Story6?:iid=1
+story public link 6 :https://public.tableau.com/app/profile/santhiya.m4552/viz/story6_16828236683000/Story1?publish=yes
 
-story public link 7 :https://us-west-2b.online.tableau.com/#/site/srmqcgi3/views/accidentsbasedonregions/Sheet7?:iid=2
+story public link 7 :https://public.tableau.com/app/profile/santhiya.m4552/viz/story7_16828237665100/Story1?publish=yes
 
 video demonstration link 1 =https://drive.google.com/file/d/1ETNaDiDjpYXuuwTP7iLqqzD9Mb3OPsdN/view?usp=drivesdk
 
